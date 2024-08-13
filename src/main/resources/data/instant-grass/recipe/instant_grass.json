@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "BWB",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:leather"
+    },
+    "B": {
+      "item": "minecraft:bone_meal"
+    },
+    "W": {
+      "item": "minecraft:wheat_seeds"
+    }
+  },
+  "result": {
+    "id": "instant-grass:instant_grass",
+    "count": 1
+  }
+}
